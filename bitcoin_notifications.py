@@ -41,7 +41,7 @@ def main():
             bitcoin_history = []
 
         # Sleep for 5 minutes
-        time.sleep(5*60*60)
+        time.sleep(5*60)
 
 
 def format_bitcoin_history(bitcoin_history):
